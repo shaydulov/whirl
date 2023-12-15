@@ -279,6 +279,7 @@ label{
     letter-spacing: 0.2px;
     height: 0;
     overflow: hidden;
+    transition: linear 0.3s;
 }
 
 input:checked ~ .acc_content{
